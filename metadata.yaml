@@ -1,0 +1,41 @@
+_repo: The-Woman-in-the-Alcove_51989
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Becher, Arthur E.
+    alias: Becher, A. E. (Arthur E.)
+    gutenberg_agent_id: '31735'
+    url: http://www.gutenberg.org/2009/agents/31735
+  - agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, A. I. (Arthur Ignatius)
+    - Keller, Arthur I.
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+creator:
+  author:
+    agent_name: Lee, Jennette
+    aliases:
+    - Lee, G. S., Mrs.
+    - Lee, Jennette Barbour Perry
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '1520'
+    url: http://www.gutenberg.org/2009/agents/1520
+description: ''
+gutenberg_issued: '2016-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Woman in the Alcove
+url: http://www.gutenberg.org/ebooks/51989
