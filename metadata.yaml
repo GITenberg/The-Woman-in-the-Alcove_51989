@@ -1,5 +1,5 @@
 _repo: The-Woman-in-the-Alcove_51989
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Becher, Arthur E.
@@ -14,6 +14,9 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '7429'
     url: http://www.gutenberg.org/2009/agents/7429
+covers:
+- cover_type: archival
+  image_path: 51989-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee, Jennette
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '1520'
     url: http://www.gutenberg.org/2009/agents/1520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51989#The-Woman-in-the-Alcove
 gutenberg_issued: '2016-05-03'
 gutenberg_type: Text
 identifiers:
